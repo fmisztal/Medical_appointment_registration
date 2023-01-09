@@ -1,4 +1,4 @@
-# ISMED1
+# Medical_appointment_registration
 
 ## How to run
 
