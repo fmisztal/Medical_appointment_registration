@@ -1,0 +1,20 @@
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit &
+curl -X POST -H "Content-Type: application/json" -d '{"visit_date" : 112080816, "patient_id": 12345678912, "patient_name": "Jan Kowalski", "doctor_name": "Mariusz Nowak"}' http://127.0.0.1:5000/visit
